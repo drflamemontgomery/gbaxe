@@ -1,0 +1,9 @@
+{
+    "name" : "gbaxe",
+    "url" : "https://github.com/drflamemontgomery/gbaxe"
+    "license" : "BSD",
+    "description" : "The GBA Game Framework",
+    "version" : "0.0.1",
+    "contributors" : ["drflamemontgomery"],
+    "dependencies" : {}
+}
